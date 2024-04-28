@@ -1,0 +1,8 @@
+List of source files:
+1)https://github.com/Apaurusheya-Tripathi/Bank-Customer-Subscription-Prediction
+
+2)https://github.com/sinhabishal77/Predicting-whether-the-customer-will-subscribe-to-Term-Deposits/blob/main/SubscriptionToTermDeposits.ipynb
+
+3)https://github.com/Purvita99/Bank-Marketing_term-deposit-prediction
+
+4)https://theanlim.rbind.io/project/term-deposit-subscription-prediction/
